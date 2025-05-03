@@ -1,4 +1,4 @@
-# 🚕 Uber Trips Dashboard (January–February)
+# 🚕 Uber Trips Analysis (January–February)
 
 This project presents an interactive Tableau dashboard that analyzes Uber trip data for the months of January and February. The goal is to explore trends in trip frequency, vehicle activity, and base performance to derive actionable insights.
 
